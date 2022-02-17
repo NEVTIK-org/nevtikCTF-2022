@@ -1,7 +1,7 @@
 # nevtikCTF-2022
 
 
-<img src="file:///home/bayhaqi/Pictures/nevtik/nevtikctf-home.png" style="zoom:40%;" />
+<img src="https://github.com/NEVTIK-org/nevtikCTF-2022/blob/main/nevtikctf-home.png" style="zoom:40%;" />
 
 
 
